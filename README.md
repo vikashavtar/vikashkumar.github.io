@@ -1,5 +1,4 @@
-
-# Vikash Kumar - Data Analyst Portfolio
+# Data Scientist
 
 Welcome to my GitHub portfolio! This repository showcases my technical skills, projects, and professional experiences in the field of data analysis.
 
