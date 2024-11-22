@@ -16,7 +16,7 @@
 - Contributed to projects such as **Unveiling the Dynamics of Movie Success** and **Travel & Hospitality Analysis**, leveraging tools like Power BI and Tableau.
 - Conducted exploratory data analysis (EDA) for **Airbnb Booking Analysis**, uncovering actionable insights for strategic decision-making.
 
-### Co-founder and Director @ Meena Milk Supplier Pvt. Ltd. (_Sep 2020 - Aug 2024_)
+### Co-founder and Director @ Meena Milk Supplier Pvt. Ltd. (_May 2021 - Jan 2024_)
 - Directed supply chain logistics and optimized inventory management, reducing waste by 40% and improving delivery times by 80%.
 - Analyzed sales data and customer feedback to enhance product offerings and achieve an 80% sales increase.
 - Managed social media campaigns using data insights to drive engagement and refine marketing strategies.
